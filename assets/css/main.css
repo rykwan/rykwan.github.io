@@ -3814,7 +3814,7 @@
 		background-color: #1d242a;
 	}
 
-.fitscreen{
+.image.fitscreen{
 	max-width: 100%;
 	  height: auto;
 	}
