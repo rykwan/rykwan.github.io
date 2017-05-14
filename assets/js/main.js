@@ -8,11 +8,16 @@
 
 	skel
 		.breakpoints({
-			xlarge:	'(max-width: 1680px)',
-			large:	'(max-width: 1280px)',
-			medium:	'(max-width: 980px)',
-			small:	'(max-width: 736px)',
-			xsmall:	'(max-width: 480px)'
+			//xlarge:	'(max-width: 1680px)',
+			xlarge:	'(max-width: 100%)',
+			//large:	'(max-width: 1280px)',
+			large:	'(max-width: 100%)',
+			//medium:	'(max-width: 980px)',
+			medium:	'(max-width: 100%)',
+			//small:	'(max-width: 736px)',
+			small:	'(max-width: 100%)',
+			xsmall:	'(max-width: 100%)'
+			//xsmall:	'(max-width: 480px)'
 		});
 
 	$(function() {
