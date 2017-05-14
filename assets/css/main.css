@@ -3541,26 +3541,6 @@
 
 		}
 
-		.fa {
-		    padding: 20px;
-		    font-size: 30px;
-		    width: 30px;
-		    text-align: center;
-		    text-decoration: none;
-		    border-radius: 50%;
-		}
-
-		/* Facebook */
-		.fa-facebook {
-		    background: #3B5998;
-		    color: white;
-		}
-
-		/* Twitter */
-		.fa-twitter {
-		    background: #55ACEE;
-		    color: white;
-		}
 
 	body.is-loading #banner h2 {
 		-moz-transform: scale(0.95);
