@@ -2402,7 +2402,7 @@
 				background-color: rgba(0, 0, 0, 0.14);
 			}
 
-			.features li:nth-child(5) {
+	/*		.features li:nth-child(5) {
 				background-color: rgba(0, 0, 0, 0.175);
 			}
 
@@ -2425,7 +2425,7 @@
 			.features li:nth-child(10) {
 				background-color: rgba(0, 0, 0, 0.35);
 			}
-
+*/
 			.features li:before {
 				display: block;
 				color: #00ffcc;
@@ -2534,13 +2534,13 @@
 			background-color: rgba(0, 0, 0, 0.15);
 		}
 
-		.spotlight:nth-child(3) {
+	/*	.spotlight:nth-child(3) {
 			background-color: rgba(0, 0, 0, 0.225);
 		}
 
 		.spotlight:nth-child(4) {
 			background-color: rgba(0, 0, 0, 0.3);
-		}
+		}*/
 /*
 		.spotlight:nth-child(5) {
 			background-color: rgba(0, 0, 0, 0.375);
