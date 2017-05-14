@@ -2318,16 +2318,16 @@
 			input[type="button"].special:hover,
 			button.special:hover,
 			.button.special:hover {
-				background-color: #ef5e4a !important;
-			}
+				background-color: #4691f9 !important;  
+			}  /*#ef5e4a*/
 
 			input[type="submit"].special:active,
 			input[type="reset"].special:active,
 			input[type="button"].special:active,
 			button.special:active,
 			.button.special:active {
-				background-color: #eb341c !important;
-			}
+			 	background-color: #1e7af9 !important;
+			}   /*#eb341c
 
 		input[type="submit"].disabled, input[type="submit"]:disabled,
 		input[type="reset"].disabled,
