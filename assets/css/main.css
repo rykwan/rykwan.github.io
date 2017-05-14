@@ -2308,7 +2308,7 @@
 		input[type="button"].special,
 		button.special,
 		.button.special {
-			background-color: #ed4933;
+			background-color: #0a5ce7; /*ed4933;*/
 			box-shadow: none !important;
 			color: #ffffff !important;
 		}
@@ -2318,7 +2318,7 @@
 			input[type="button"].special:hover,
 			button.special:hover,
 			.button.special:hover {
-				background-color: #4691f9 !important;  
+				background-color: #4691f9 !important;
 			}  /*#ef5e4a*/
 
 			input[type="submit"].special:active,
