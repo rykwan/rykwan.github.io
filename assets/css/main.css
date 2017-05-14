@@ -3813,8 +3813,3 @@
 	body.is-mobile.landing #footer {
 		background-color: #1d242a;
 	}
-
-.image.fitscreen{
-	max-width: 100%;
-	  height: auto;
-	}
