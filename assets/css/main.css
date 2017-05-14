@@ -3541,6 +3541,15 @@
 
 		}
 
+		.fa {
+		    padding: 20px;
+		    font-size: 30px;
+		    width: 30px;
+		    text-align: center;
+		    text-decoration: none;
+		    border-radius: 50%;
+		}
+
 	body.is-loading #banner h2 {
 		-moz-transform: scale(0.95);
 		-webkit-transform: scale(0.95);
